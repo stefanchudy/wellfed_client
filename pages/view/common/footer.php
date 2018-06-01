@@ -295,7 +295,7 @@
 <!-- Modal End -->
 
 <!-- Jquery Plugins -->
-
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 <script type="text/javascript" src="theme/plugins/smoothscroll/smoothscroll.js"></script>
 <script type="text/javascript" src="theme/plugins/easing/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="theme/plugins/wow/wow.min.js"></script>
@@ -308,6 +308,25 @@
 <script type="text/javascript" src="theme/plugins/swiper/js/swiper.min.js"></script>
 <script type="text/javascript" src="theme/plugins/parallax-scroll-master/jquery.parallax-scroll.js"></script>
 <script type="text/javascript" src="theme/plugins/validation/jquery.validate.min.js"></script>
+<script type="text/javascript">
+	
+	  $(document).ready(function(){
+        $('.clickme a').click(function(){
+            $('.clickme a').removeClass('activelink');
+            $(this).addClass('activelink');
+            var tagid = $(this).data('tag');
+            $('.list').removeClass('active').addClass('hide');
+            $('#'+tagid).addClass('active').removeClass('hide');
+        });
+         $('.clickme2 a').click(function(){
+            $('.clickme2 a').removeClass('activelink2');
+            $(this).addClass('activelink2');
+            var tagid = $(this).data('tag2');
+            $('.list2').removeClass('active2').addClass('hide2');
+            $('#'+tagid).addClass('active2').removeClass('hide2');
+        });
+    });
+</script>
 
 
 <!--[if lt IE 9]>
