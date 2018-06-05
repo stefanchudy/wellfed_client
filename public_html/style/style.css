@@ -371,11 +371,11 @@ table.table hr{
     justify-content: center;
 }
 #welcome {
-    background-image: url(http://foodblessed.org/wp-content/uploads/2015/09/welcome-parallax-new-1.jpg);
+    background-image: url(/img/landing/welcome.jpg);
     background-size: cover;
 }
 #specialities {
-    background-image: url(http://foodblessed.org/wp-content/uploads/2015/09/specialities-parallax.jpg);
+    background-image: url(img/landing/specialities.jpg);
     background-size: cover;
 }
 .pagesection .caption {
@@ -601,7 +601,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     border-color: #EBEBEB;
 }
 div#how_many {
-	background-image: url(http://foodblessed.org/wp-content/uploads/2015/09/menu-parallax.jpg);
+	background-image: url(img/landing/menu.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -718,7 +718,7 @@ div#how_many .wpb_wrapper {
     padding-right: 15px;
 }
 div#contact_us {
-	background-image: url(http://foodblessed.org/wp-content/uploads/2015/09/menu-parallax.jpg);
+	background-image: url(img/landing/menu.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -844,12 +844,12 @@ div#contact_us .contact_details {
 	padding: 60px 50px 10px 40px;
 }
 div#contact_us .content-block-21 {
-	padding-top: 400px !important;
+/*	padding-top: 400px !important;
     padding-bottom: 400px !important;
-}
+*/}
 .demoheader {background: #f2f2f2; width: 100%; padding: 40px; text-align: center; }	
 .testimonials {
-	background: url(http://foodblessed.org/wp-content/uploads/2015/09/testimonials-parallax.jpg);
+	background: url(img/landing/testimonials.jpg);
 	min-height: 100vh;
 	padding-top: 100px !important;
     padding-bottom: 100px !important;
@@ -857,12 +857,16 @@ div#contact_us .content-block-21 {
     background-position: center;
 
 }
+.active {
+    display: block;
+}
+.hide {
+    display: none;
+}
 
-    .active{     display: block;  }
-    .hide{        display: none;    } 
-
-    .sectionheading {  color: #f9b114;
-        font-family: "Alex Brush";
+.sectionheading {
+    color: #f9b114;
+    font-family: "Alex Brush";
     line-height: 72px;
     font-weight: 400;
     font-style: normal;
@@ -874,7 +878,7 @@ div#contact_us .content-block-21 {
     transition: opacity 0.24s ease-in-out;
     margin-bottom: 40px;
 }
-.tab_inr_content_wrapper  h4 {
+.tab_inr_content_wrapper h4 {
     font-family: Arapey;
     line-height: 36px;
     font-weight: 400;
@@ -903,8 +907,16 @@ span.eps_sep { height: 1px;  border-top: 1px solid #000;  display: block;  posit
     padding: 0;
     text-align: center;
 }
-.tabsall {   position: relative; padding-bottom: 1px;}
-.testimonials ul li  {display: inline-block;   margin: 0;    padding: 0;    vertical-align: middle; }
+.tabsall {
+    position: relative;
+    padding-bottom: 1px;
+}
+.testimonials ul li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+}
 .testimonials ul li a {
 	display: block;
     text-decoration: none;
@@ -915,11 +927,21 @@ span.eps_sep { height: 1px;  border-top: 1px solid #000;  display: block;  posit
     background: 0 0;
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
-    border: none;     background-color: #2A2A2A; 
+    border: none;
+    background-color: #2A2A2A; 
     opacity: 0.6;
  }
-.activelink {    background-color: #2A2A2A; opacity: 1!important; }
-.readmore { display: block; margin-bottom: 21.74px; max-width: 100%; text-align: center;     margin-top: 45px;}
+.activelink {
+    background-color: #2A2A2A;
+    opacity: 1!important;
+}
+.readmore {
+    display: block;
+    margin-bottom: 21.74px;
+    max-width: 100%;
+    text-align: center;
+    margin-top: 45px;
+}
 
 .readmore a {
 	border-color: rgb(102, 102, 102);
@@ -940,12 +962,12 @@ span.eps_sep { height: 1px;  border-top: 1px solid #000;  display: block;  posit
     border: 2px solid ;
     
 }
-.readmore a:hover {background: rgb(102, 102, 102);  color: #fff;   text-decoration: none; }
-.sectionheading_separator_color_black {margin-bottom: 40px;}
+.readmore a:hover { background: rgb(102, 102, 102);  color: #fff;   text-decoration: none; }
+.sectionheading_separator_color_black { margin-bottom: 40px; }
 
 /**** second section ****/
 .herohighlights {
-	background: url(http://foodblessed.org/wp-content/uploads/2015/09/specialities-parallax.jpg);
+	background: url(img/landing/specialities.jpg);
 	min-height: 100vh;
 	padding-top: 100px !important;
     padding-bottom: 100px !important;

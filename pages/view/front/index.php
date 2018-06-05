@@ -20,7 +20,7 @@
                         <div class="wpb_content_element wpb_single_image" style="padding-right: 40px;">
                             <figure class="vc_figure">
                                 <div class="wpb_start_animation wpb_left-to-right">
-                                    <img width="807" height="949" src="http://foodblessed.org/wp-content/uploads/2015/09/12961619_1016140225138628_4230186289886560208_n.jpg" alt="" class="single-image-img">
+                                    <img width="807" height="949" src="/img/landing/aboutus.jpg" alt="" class="single-image-img">
                                 </div>
                             </figure>
                         </div>
@@ -271,25 +271,25 @@ Always blessed to have found you.”   <br>
  	<div class="eps_raw">
  		<div class="eps_col-md-3">
  			<a href="http://foodblessed.org/2018/05/06/foodblessed-raising-awareness-to-prevent-food-waste-at-ic/" title="FoodBlessed raising awareness to prevent food waste at IC" class="eps_link"></a>
- 			<img src="http://foodblessed.org/wp-content/uploads/2018/05/32130767_1730436937042283_7649960993312735232_n.jpg" class="eps-zone-img" alt="">
+ 			<img src="img/landing/blog1.jpg" class="eps-zone-img" alt="">
  			<div class="eps_post_content">
- 				<h4 class="eps_post_title" style="text-align: left">
-FoodBlessed raising awareness to prevent food waste at IC</h4>
+ 				<h4 class="eps_post_title" style="text-align: left">FoodBlessed raising awareness to prevent food waste at IC</h4>
  				<div class="eps_content_post">
  					<p style="text-align: left"></p><p>Awareness raising in schools to prevent food waste Since it’s establishment, FoodBlessed has raising awareness on the issue of food waste in schools! The goal of this activity is to raise awareness among school children, teachers and staff and their related families and networks on food loss and waste issues and introduce good practices conducive […]</p>
-<p></p>
+                    <p></p>
  				</div>
 
  			</div>
  		</div>	
  		<div class="eps_col-md-3">
  			<a href="http://foodblessed.org/2018/05/06/foodblessed-raising-awareness-to-prevent-food-waste-at-ic/" title="FoodBlessed raising awareness to prevent food waste at IC" class="eps_link"></a>
- 			<img src="http://foodblessed.org/wp-content/uploads/2018/05/31934861_1724573007628676_2009061945881133056_n.jpg" class="eps-zone-img" alt="">
+ 			<img src="img/landing/blog2.jpg" class="eps-zone-img" alt="">
  			<div class="eps_post_content">
  				<h4 class="eps_post_title" style="text-align: left">World Disco Soup Day 2018</h4>
  				<div class="eps_content_post">
- 					<p style="text-align: left"></p><p>Awareness raising in schools to prevent food waste Since it’s establishment, FoodBlessed has raising awareness on the issue of food waste in schools! The goal of this activity is to raise awareness among school children, teachers and staff and their related families and networks on food loss and waste issues and introduce good practices conducive […]</p>
-<p></p>
+ 					<p style="text-align: left"></p>
+                    <p>Awareness raising in schools to prevent food waste Since it’s establishment, FoodBlessed has raising awareness on the issue of food waste in schools! The goal of this activity is to raise awareness among school children, teachers and staff and their related families and networks on food loss and waste issues and introduce good practices conducive […]</p>
+                    <p></p>
  				</div>
 
  			</div>
@@ -297,12 +297,13 @@ FoodBlessed raising awareness to prevent food waste at IC</h4>
 
  		<div class="eps_col-md-3">
  			<a href="http://foodblessed.org/2018/05/06/foodblessed-raising-awareness-to-prevent-food-waste-at-ic/" title="FoodBlessed raising awareness to prevent food waste at IC" class="eps_link"></a>
- 			<img src="http://foodblessed.org/wp-content/uploads/2018/05/31292684_1715057128580264_6774901054547790156_n.jpg" alt="">
+ 			<img src="img/landing/blog3.jpg" alt="">
  			<div class="eps_post_content">
  				<h4 class="eps_post_title" style="text-align: left">FoodBlessed took part in the Aub-USJ community service fair</h4>
  				<div class="eps_content_post">
- 					<p style="text-align: left"></p><p>Awareness raising in schools to prevent food waste Since it’s establishment, FoodBlessed has raising awareness on the issue of food waste in schools! The goal of this activity is to raise awareness among school children, teachers and staff and their related families and networks on food loss and waste issues and introduce good practices conducive […]</p>
-<p></p>
+ 					<p style="text-align: left"></p>
+                    <p>Awareness raising in schools to prevent food waste Since it’s establishment, FoodBlessed has raising awareness on the issue of food waste in schools! The goal of this activity is to raise awareness among school children, teachers and staff and their related families and networks on food loss and waste issues and introduce good practices conducive […]</p>
+                    <p></p>
  				</div>
 
  			</div>
@@ -310,14 +311,14 @@ FoodBlessed raising awareness to prevent food waste at IC</h4>
 
  		<div class="eps_col-md-3">
  			<a href="http://foodblessed.org/2018/05/06/foodblessed-raising-awareness-to-prevent-food-waste-at-ic/" title="FoodBlessed raising awareness to prevent food waste at IC" class="eps_link"></a>
- 			<img src="http://foodblessed.org/wp-content/uploads/2018/04/29790778_1694426350643342_322238093215501121_n.jpg" class="eps-zone-img" alt="">
+ 			<img src="img/landing/blog4.jpg" class="eps-zone-img" alt="">
  			<div class="eps_post_content">
  				<h4 class="eps_post_title" style="text-align: left">Rastas Du Coeur Beirut Fundraising Event</h4>
  				<div class="eps_content_post">
- 					<p style="text-align: left"></p><p>Awareness raising in schools to prevent food waste Since it’s establishment, FoodBlessed has raising awareness on the issue of food waste in schools! The goal of this activity is to raise awareness among school children, teachers and staff and their related families and networks on food loss and waste issues and introduce good practices conducive […]</p>
-<p></p>
+ 					<p style="text-align: left"></p>
+                    <p>Awareness raising in schools to prevent food waste Since it’s establishment, FoodBlessed has raising awareness on the issue of food waste in schools! The goal of this activity is to raise awareness among school children, teachers and staff and their related families and networks on food loss and waste issues and introduce good practices conducive […]</p>
+                    <p></p>
  				</div>
-
  			</div>
  		</div>		
  	</div>
@@ -331,42 +332,58 @@ FoodBlessed raising awareness to prevent food waste at IC</h4>
 				<div class="col-md-6 contact_details">
 					<div class="wpb_wrapper">
 						<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right wpb_start_animation">
-						<div class="wpb_wrapper">
-						<h2>Our Location</h2>
-						<h4></h4>
-						</div>
-						</div>
-						<div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_20 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_black"><span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+                            <div class="wpb_wrapper">
+                                <h2>Our Location</h2>
+                                <h4></h4>
+                            </div>
+                        </div>
+                        <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_20 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_black">
+                            <span class="vc_sep_holder vc_sep_holder_l">
+                                <span class="vc_sep_line"></span>
+                            </span>
+                            <span class="vc_sep_holder vc_sep_holder_r">
+                                <span class="vc_sep_line"></span>
+                            </span>
 						</div>
 						<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_left-to-right wpb_start_animation">
-						<div class="wpb_wrapper">
-						<div class="_4bl9">
-						<div><span class="_50f4">Garden Center, 3rd FL.&nbsp; El Rachidine ST. Tallet El Khayat, Verdun. Next to Mufti Hassan Khaled Park. Beirut, Lebanon.</span></div>
-						<div>Beirut, Lebanon<br>
-						(961)&nbsp;70 159 337</div>
-						<div>(961) 1 786706<br>
-						info@foodblessed.org</div>
-						</div>
-						<p>For directions, please click the below link:</p>
-						<p><a href="https://www.google.com.lb/maps/dir/FoodBlessed+Office,+El+Rachidine,+Beirut/Unnamed+Road/@33.8922065,35.4442334,12z/data=!4m13!4m12!1m5!1m1!1s0x151f172fd0b087bf:0xe753119747df3ca4!2m2!1d35.4870393!2d33.8868623!1m5!1m1!1s0x151f164f637944ff:0xab3053d46015f2fc!2m2!1d35.5367707!2d33.8895836?hl=en">https://www.google.com.lb/maps/dir/FoodBlessed+Office,+El+Rachidine,+Beirut/Unnamed+Road/@33.8922065,35.4442334,12z/data=!4m13!4m12!1m5!1m1!1s0x151f172fd0b087bf:0xe753119747df3ca4!2m2!1d35.4870393!2d33.8868623!1m5!1m1!1s0x151f164f637944ff:0xab3053d46015f2fc!2m2!1d35.5367707!2d33.8895836?hl=en</a></p>
-						</div>
-						</div>
-						<div class="vc_btn3-container  wpb_animate_when_almost_visible wpb_left-to-right vc_btn3-left vc_custom_1501866890511 wpb_start_animation"><a onmouseleave="this.style.borderColor='#666666'; this.style.backgroundColor='transparent'; this.style.color='#666666'" onmouseenter="this.style.borderColor='#f9b114'; this.style.backgroundColor='#f9b114'; this.style.color='#ffffff';" style="border-color:#666666; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline-custom" href="http://foodblessed.org/volunteer/" target="_blank">VOLUNTEER WITH US</a></div>
-						</div>
+                            <div class="wpb_wrapper">
+                                <div class="_4bl9">
+                                    <div>
+                                        <span class="_50f4">Garden Center, 3rd FL.&nbsp; El Rachidine ST. Tallet El Khayat, Verdun. Next to Mufti Hassan Khaled Park. Beirut, Lebanon.</span>
+                                    </div>
+                                    <div>
+                                        Beirut, Lebanon<br>
+                                        (961)&nbsp;70 159 337
+                                    </div>
+                                    <div>
+                                        (961) 1 786706<br>
+                                        info@foodblessed.org
+                                    </div>
+                                </div>
+                                <p>For directions, please click the below link:</p>
+                                <p>
+                                    <a href="https://www.google.com.lb/maps/dir/FoodBlessed+Office,+El+Rachidine,+Beirut/Unnamed+Road/@33.8922065,35.4442334,12z/data=!4m13!4m12!1m5!1m1!1s0x151f172fd0b087bf:0xe753119747df3ca4!2m2!1d35.4870393!2d33.8868623!1m5!1m1!1s0x151f164f637944ff:0xab3053d46015f2fc!2m2!1d35.5367707!2d33.8895836?hl=en">https://www.google.com.lb/maps/dir/FoodBlessed+Office,+El+Rachidine,+Beirut/Unnamed+Road/@33.8922065,35.4442334,12z/data=!4m13!4m12!1m5!1m1!1s0x151f172fd0b087bf:0xe753119747df3ca4!2m2!1d35.4870393!2d33.8868623!1m5!1m1!1s0x151f164f637944ff:0xab3053d46015f2fc!2m2!1d35.5367707!2d33.8895836?hl=en</a>
+                                </p>
+                            </div>
+                        </div>
+						<div class="vc_btn3-container  wpb_animate_when_almost_visible wpb_left-to-right vc_btn3-left vc_custom_1501866890511 wpb_start_animation">
+                            <a onmouseleave="this.style.borderColor='#666666'; this.style.backgroundColor='transparent'; this.style.color='#666666'" onmouseenter="this.style.borderColor='#f9b114'; this.style.backgroundColor='#f9b114'; this.style.color='#ffffff';" style="border-color:#666666; color:#666666;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline-custom" href="http://foodblessed.org/volunteer/" target="_blank">VOLUNTEER WITH US</a>
+                        </div>
+                    </div>
 				</div>
 				<div class="col-md-6 vc_column_container">
 					<div class="vc_column-inner vc_custom_1442498161289">
-					<div class="wpb_wrapper">
-					<div class="wpb_gmaps_widget wpb_content_element">
-					<div class="wpb_wrapper">
-					<div class="wpb_map_wraper">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d828.029715495899!2d35.48693458408906!3d33.886592507289606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDUzJzEzLjQiTiAzNcKwMjknMTMuMSJF!5e0!3m2!1sen!2slb!4v1510241833931" width="575" height="600" frameborder="0" style="border: 0px; pointer-events: none;" allowfullscreen=""></iframe> </div>
-					</div>
-					</div>
-					</div>
+                        <div class="wpb_wrapper">
+                            <div class="wpb_gmaps_widget wpb_content_element">
+                                <div class="wpb_wrapper">
+                                    <div class="wpb_map_wraper">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d828.029715495899!2d35.48693458408906!3d33.886592507289606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDUzJzEzLjQiTiAzNcKwMjknMTMuMSJF!5e0!3m2!1sen!2slb!4v1510241833931" width="575" height="600" frameborder="0" style="border: 0px; pointer-events: none;" allowfullscreen=""></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 					</div>
 				</div>
-			
 			</div>
 		</div>
 	</div>
