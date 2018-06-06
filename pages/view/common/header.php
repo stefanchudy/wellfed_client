@@ -26,7 +26,7 @@
                                 <li class="nav-item">
                                     <form method="post">
                                         <input type="hidden" name="logout" value="1"/>
-                                        <button type="submit" class="login-btn">Log out</button>
+                                        <button type="submit" class="login-btn logout-btn"><i class="fas fa-power-off"></i></button>
                                     </form>
                                 </li>
                             <?php } else { ?>
@@ -49,9 +49,9 @@
                 </div>
                 <div class="collapse navbar-collapse nav-collapse">
                     <ul class="nav navbar-nav">
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a href=""><i class="fa fa-home fa-2x"></i></a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a href="/about">About us</a>
                         </li>
@@ -79,12 +79,40 @@
                                     <a href="/search">Search</a>
                                 </li>
                             <?php } ?>
-                        <?php } ?>
-                        <?php if ($this->user && ($this->user['is_admin'])) { ?>
+                        <?php } ?>					
+						 <li class="nav-item">
+                            <a title="Powered by Well Fed Foundation" href="/contact">
+								<div style="border: 1px solid #fff; margin: -5px; padding: 5px;">Donate Food</div>
+							</a>
+                        </li>
+						<li class="nav-item">
+							<a href="https://www.facebook.com/FoodBlessed">
+								<i class="fab fa-facebook-f"></i>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a href="https://www.facebook.com/FoodBlessed">
+								<i class="fab fa-instagram"></i>
+							</a>
+						</li>	
+						<li class="nav-item">
+							<a href="https://www.facebook.com/FoodBlessed">
+								<i class="fab fa-linkedin"></i>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a href="https://www.facebook.com/FoodBlessed">
+								<i class="fab fa-twitter"></i>
+							</a>
+						</li>						
+						<li class="nav-item">
+                            <a class="header_logo_image" href="/contact"><div class="img-circular"></div></a>
+                        </li>
+						 <?php if ($this->user && ($this->user['is_admin'])) { ?>
                             <li class="nav-item">
-                                <a href="/admin/dashboard"><i class="fa fa-cog fa-2x"></i></a>
+                                <a href="/admin/dashboard"><i class="fa fa-cog"></i></a>
                             </li>
-                        <?php } ?>
+                        <?php } ?>	
                     </ul>
                 </div>
             </div>

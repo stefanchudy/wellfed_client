@@ -296,6 +296,8 @@
 
 <!-- Jquery Plugins -->
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Arapey" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 <script type="text/javascript" src="theme/plugins/smoothscroll/smoothscroll.js"></script>
 <script type="text/javascript" src="theme/plugins/easing/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="theme/plugins/wow/wow.min.js"></script>

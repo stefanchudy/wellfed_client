@@ -4,6 +4,15 @@
 </section>
 <!-- Map End -->
 <!-- Contact Start -->
+<section class="section-text">
+    <div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<p>Foodblessed's Food donation portal is donated and powered by Well Fed Foundation. If you are interested in powering your local charity with this free technology, contact Well Fed Foundation here.</p>
+			</div>	
+		</div>	
+	</div>
+</section>	
 <section class="section-1">
     <div class="container">
         <?php if (!isset($message_sent)) { ?>

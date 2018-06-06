@@ -6,8 +6,10 @@ $_cnf['install'] = 'install';
 // Front
 $_cnf['index'] = 'index';
 $_cnf['about'] = 'front/about';
-
+$_cnf['partners'] = 'front/partners';
+$_cnf['donate'] = 'front/donate';
 // blog front
+
 $_cnf['blog'] = 'front/blog/index';
 $_cnf['blog/read'] = array(
     'table' => NULL,
