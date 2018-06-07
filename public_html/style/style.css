@@ -1212,7 +1212,7 @@ span.header_button_text {
 .img-circular{
  width: 20px;
  height: 20px;
- background-image: url('http://welfed.com/img/fav.png');
+ background-image: url('/img/fav.png');
  background-size: cover;
  display: block;
 }
