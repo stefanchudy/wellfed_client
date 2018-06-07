@@ -61,17 +61,20 @@
                         <li class="nav-item">
                             <a href="/contact">Contact</a>
                         </li>
+						<li class="nav-item">
+                            <a href="/partners">Partners</a>
+                        </li>
                         <?php if ($this->user) { ?>
                             <li class="nav-item">
                                 <a href="/profile">Profile</a>
                             </li>
                             <?php if (count($this->user['locations'])) { ?>
                                 <li class="nav-item">
-                                    <a href="/donations/add">Donate</a>
+                                    <a href="/donate">Support Us</a>
                                 </li>
                             <?php } else { ?>
                                 <li class="nav-item">
-                                    <a href="/locations/add">Donate</a>
+                                    <a href="/donate">Support Us</a>
                                 </li>
                             <?php } ?>
                             <?php if ($this->user['data']['advanced'] || $this->user['is_admin']) { ?>
